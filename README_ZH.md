@@ -1,9 +1,9 @@
 # android-resources
 Android 开发资料
 
-[English version](https://github.com/Tikitoo/android-resources/edit/master/README.md)
+[English version](https://github.com/Tikitoo/android-resources/blob/master/README.md)
 
-[中文版](https://github.com/Tikitoo/android-resources/edit/master/README_ZH.md)
+[中文版](https://github.com/Tikitoo/android-resources/blob/master/README_ZH.md)
 
 ## Java 学习
 
