@@ -15,7 +15,8 @@ Android geliştirme kaynaklari
 - [Java Tutorial - TutorialSpoint](http://www.tutorialspoint.com/java/)
  - [Java Tutorial PDF](http://www.tutorialspoint.com/java/java_tutorial.pdf)
 - [Javanotes 7.0 -- Title Page](http://math.hws.edu/eck/cs124/downloads/javanotes7.pdf)
-
+[Pure Java](http://www.injavawetrust.com/java)
+[Kodcu.com](http://www.kodcu.com)
 
 ## Başlangıç
 
