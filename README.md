@@ -49,6 +49,7 @@ Android development resources
 - [android-cn/android-dev-com](https://github.com/android-cn/android-dev-com)
 - [What are must-read Android developer blogs? - Quora](http://www.quora.com/What-are-must-read-Android-developer-blogs)
 - [有哪些 Android 大牛的 blog 值得推荐？ - 知乎](http://www.zhihu.com/question/19775981)
+- [vbauer/android-blogs](https://github.com/vbauer/android-blogs)
 
 ## Open source App
  
