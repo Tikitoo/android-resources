@@ -5,6 +5,9 @@ Android development resources
 
 [中文版](https://github.com/Tikitoo/android-resources/blob/master/README_ZH.md)
 
+[Türkçe versiyon](https://github.com/Tikitoo/android-resources/blob/master/README_TR.md)
+
+
 ## Java 
 
 
