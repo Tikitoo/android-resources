@@ -6,8 +6,6 @@ Android 开发资料
 [中文版](https://github.com/Tikitoo/android-resources/blob/master/README_ZH.md)
 
 ## Java 学习
-
-
 - [Introduction to Programming in Java: An Interdisciplinary Approach](http://introcs.cs.princeton.edu/java/home/)
 - [Java Tutorial - TutorialSpoint](http://www.tutorialspoint.com/java/)
  - [Java Tutorial PDF](http://www.tutorialspoint.com/java/java_tutorial.pdf)
@@ -15,25 +13,31 @@ Android 开发资料
 
 
 ## 入门指南
-
 - [Getting Started | Android Developers](https://developer.android.com/training/index.html)
 - [How to get started programming Android apps | HalfApp](http://halfapp.com/blog/get-started-programming-android-apps/)
 - [A step by step guide about how to get started and involved in Android Development - Reddit](http://www.reddit.com/r/Android/comments/1w3woc/a_step_by_step_guide_about_how_to_get_started_and/)
 - [Beginning Android Resources · codepath/android_guides Wiki](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources)
 
-## 书籍推荐
 
-- [ The Busy Coder's Guide to Android Development](http://commonsware.com/Android/)
+## 书籍推荐
+- 第一行代码
+- Head First Android Development（深入浅出Android 开发）
+- Android 群英传
+- Android 开发艺术探索
+- Android 设计模式源码分析
+- Android 开发精要
+- App 研发录
+- [ The Busy Coder's Guide to Android Development（Android 编程指南）](http://commonsware.com/Android/)
 - [Best Android Books and Resources 2014](http://nimooli.com/blog/best-android-books-2014/)
 
-## 公开课
 
+## 公开课
 - [How to Develop Android Apps Online Course - Udacity](https://www.udacity.com/course/ud853)
 - [Programming Mobile Applications for Android (Coursera)](https://class.coursera.org/android-001/lecture)
 - [Android Development For Absolute Beginners - YouTube](https://www.youtube.com/playlist?list=PLB03EA9545DD188C3)
 
-## 系列教程
 
+## 系列教程
 - [Home · codepath/android_guides Wiki - codepath](https://github.com/thecodepath/android_guides/wiki)
 - [Android tutorial - TutorialSpoint](http://www.tutorialspoint.com/android/index.htm)
 - [Android Development - Vogella](http://www.vogella.com/tutorials/android.html)
@@ -43,24 +47,25 @@ Android 开发资料
 - [Android Programming Archives - Learn2Crack](http://www.learn2crack.com/category/androidprogramming)
 - [Android Learning Path | SlideRule](https://www.mysliderule.com/learning-paths/android/learn/)
 
-## 大牛博客推荐
 
+## 大牛博客推荐
 - [android-cn/android-dev-cn](https://github.com/android-cn/android-dev-cn)
 - [android-cn/android-dev-com](https://github.com/android-cn/android-dev-com)
 - [What are must-read Android developer blogs? - Quora](http://www.quora.com/What-are-must-read-Android-developer-blogs)
 - [有哪些 Android 大牛的 blog 值得推荐？ - 知乎](http://www.zhihu.com/question/19775981)
 
-## 开源App
- 
 
+## 开源App
 - [F-Droid | Free and Open Source Android App Repository](https://f-droid.org/)
 - [Android优秀开源项目 - 小猪爬爬](http://blog.tisa7.com/android_open_source_projects)
 - [The Android Arsenal - A categorized directory of free libraries and tools for Android](https://android-arsenal.com/)
 - [Trinea/android-open-project - Trinea](https://github.com/Trinea/android-open-project)
 
+
 ## 开发工具
-
-
+- [推荐几款实用的Android Studio 插件](http://www.jianshu.com/p/6f5f818afe4b)
+- [Android Studio有哪些非常好用的插件？ - 知乎](https://www.zhihu.com/question/28527388)
+- [有什么好用的Android Studio的插件值得推荐？ - 知乎](https://www.zhihu.com/question/28026027)
 - [Great Code Examples & Snippets | Codota](http://www.codota.com/)
 - [Gradle](http://www.gradleware.com/)
 - [Android Studio]()
@@ -71,15 +76,18 @@ Android 开发资料
 - [inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
 - [Genymotion - A faster Android emulator](https://www.genymotion.com/)
 
-## 订阅
 
-- [Android 周刊](http://androidweekly.net/)
+## 订阅
+- [Android Weekly（Android 周刊）](http://androidweekly.net/)
 - [Android开发技术周报](http://www.androidweekly.cn/)
 - [码农周刊 - Android](https://github.com/nemoTyrant/manong#ANDROID)
+- [Android 科学院](http://zhuanlan.zhihu.com/andlib)
+- [开发技术前线](http://www.devtf.cn/?cat=2)
+- [Android开发周报](http://www.infoq.com/cn/author/%E9%83%AD%E4%BA%AE)
+- [ANDROID 周报](http://www.race604.com/tag/Android-Weekly/)
 
 
 ## 资源
-
 - [Best resources for Android development](http://www.androidauthority.com/best-resources-android-development-372414/)
 - [Resources every Android developer must know](http://www.bongizmo.com/blog/android-resources-each-developer-should-know/)
  中文版——《- [Android开发者必知的开发资源 - ImportNew](http://www.importnew.com/3988.html)
@@ -93,9 +101,17 @@ Android 开发资料
 - [resources - androiddev reddit](http://www.reddit.com/r/androiddev/wiki/resources)
 
 
+## 优化 & 架构
+- [codeKK 开源项目源码分析](http://a.codekk.com/)
+- [Android Best Practices（Android 最佳实践）](https://github.com/futurice/android-best-practices)
+- [Android Clean Architecture（Android 整洁的架构）](https://github.com/android10/Android-CleanArchitecture)
+- [代码规范和Android项目中的一些可用工具](http://tech.glowing.com/cn/dai-ma-gui-fan-he-androidxiang-mu-zhong-de-xie-ke-yong-gong-ju/#)
+- [Android 命名规范 （提高代码可以读性）](http://blog.csdn.net/vipzjyno1/article/details/23542617)
+
+
 ## License
 ```
-Copyright 2015 Tikitoo
+Copyright 2016 Tikitoo
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -109,6 +125,3 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-
-
-
