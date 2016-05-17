@@ -5,6 +5,8 @@ Android 开发资料
 
 [中文版](https://github.com/Tikitoo/android-resources/blob/master/README_ZH.md)
 
+
+
 ## Java 学习
 - [Introduction to Programming in Java: An Interdisciplinary Approach](http://introcs.cs.princeton.edu/java/home/)
 - [Java Tutorial - TutorialSpoint](http://www.tutorialspoint.com/java/)
@@ -14,6 +16,8 @@ Android 开发资料
 - [Think in Java](http://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486)（[中文版](http://search.jd.com/Search?keyword=Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3&enc=utf-8&pvid=3k9neboi.t8qd1i)）
 
 
+
+
 ## 入门指南
 - [Getting Started | Android Developers](https://developer.android.com/training/index.html)
 - [How to get started programming Android apps | HalfApp](http://halfapp.com/blog/get-started-programming-android-apps/)
@@ -21,7 +25,10 @@ Android 开发资料
 - [Beginning Android Resources · codepath/android_guides Wiki](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources)
 - [写给Android 开发的入门教程 | Tikitoo Blog](http://tikitoo.github.io/2015/08/23/android-developer-tutorial/)
 - [如何自学Android | Gityuan博客](http://gityuan.com/2016/04/24/how-to-study-android/)
-- 
+
+
+
+
 
 ## 书籍推荐
 - [ The Busy Coder's Guide to Android Development](http://commonsware.com/Android/)
@@ -36,10 +43,14 @@ Android 开发资料
 - [《App 研发录》]()
 
 
+
+
 ## 公开课
 - [How to Develop Android Apps Online Course - Udacity](https://www.udacity.com/course/ud853)
 - [Programming Mobile Applications for Android (Coursera)](https://class.coursera.org/android-001/lecture)
 - [Android Development For Absolute Beginners - YouTube](https://www.youtube.com/playlist?list=PLB03EA9545DD188C3)
+
+
 
 
 ## 系列教程
@@ -53,11 +64,15 @@ Android 开发资料
 - [Android Learning Path | SlideRule](https://www.mysliderule.com/learning-paths/android/learn/)
 
 
+
+
 ## 大牛博客推荐
 - [android-cn/android-dev-cn](https://github.com/android-cn/android-dev-cn)
 - [android-cn/android-dev-com](https://github.com/android-cn/android-dev-com)
 - [What are must-read Android developer blogs? - Quora](http://www.quora.com/What-are-must-read-Android-developer-blogs)
 - [有哪些 Android 大牛的 blog 值得推荐？ - 知乎](http://www.zhihu.com/question/19775981)
+
+
 
 
 ## 开源App
@@ -66,8 +81,16 @@ Android 开发资料
 - [The Android Arsenal - A categorized directory of free libraries and tools for Android](https://android-arsenal.com/)
 - [Trinea/android-open-project - Trinea](https://github.com/Trinea/android-open-project)
 
+
+
+
+
 ## 开源项目
 - [LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
+
+
+
+
 
 ## 开发工具
 - [推荐几款实用的Android Studio 插件](http://www.jianshu.com/p/6f5f818afe4b)
@@ -82,6 +105,8 @@ Android 开发资料
 - [google/material-design-icons - github](https://github.com/google/material-design-icons)
 - [inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
 - [Genymotion - A faster Android emulator](https://www.genymotion.com/)
+
+
 
 
 ## 订阅
@@ -101,6 +126,8 @@ Android 开发资料
 - [Android 开发经验谈](http://www.jianshu.com/collection/5139d555c94d)
 
 
+
+
 ## 资源
 - [Best resources for Android development](http://www.androidauthority.com/best-resources-android-development-372414/)
 - [Resources every Android developer must know](http://www.bongizmo.com/blog/android-resources-each-developer-should-know/)
@@ -115,12 +142,18 @@ Android 开发资料
 - [resources - androiddev reddit](http://www.reddit.com/r/androiddev/wiki/resources)
 - [整理一些比较好的Android开发教程](http://bxbxbai.github.io/2014/10/07/android-develop-resource/)
 
+
+
+
+
 ## 优化 & 架构
 - [codeKK 开源项目源码分析](http://a.codekk.com/)
 - [Android Best Practices（Android 最佳实践）](https://github.com/futurice/android-best-practices)
 - [Android Clean Architecture（Android 整洁的架构）](https://github.com/android10/Android-CleanArchitecture)
 - [代码规范和Android项目中的一些可用工具](http://tech.glowing.com/cn/dai-ma-gui-fan-he-androidxiang-mu-zhong-de-xie-ke-yong-gong-ju/#)
 - [Android 命名规范 （提高代码可以读性）](http://blog.csdn.net/vipzjyno1/article/details/23542617)
+
+
 
 
 ## License
