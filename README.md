@@ -53,6 +53,7 @@ Android development resources
 - [How to Develop Android Apps Online Course - Udacity](https://www.udacity.com/course/ud853)
 - [Programming Mobile Applications for Android (Coursera)](https://class.coursera.org/android-001/lecture)
 - [Android Development For Absolute Beginners - YouTube](https://www.youtube.com/playlist?list=PLB03EA9545DD188C3)
+- [Android App Development by Stanford - YouTube] (http://web.stanford.edu/class/cs193a/videos.shtml)
 
 
 
