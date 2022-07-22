@@ -13,7 +13,9 @@ Android 开发资料
 - [Java Tutorial PDF](http://www.tutorialspoint.com/java/java_tutorial.pdf)
 - [Javanotes 7.0 -- Title Page](http://math.hws.edu/eck/cs124/downloads/javanotes7.pdf)
 - [Head First Java](http://shop.oreilly.com/product/9780596009205.do)（[中文版](http://item.jd.com/10222740.html)）
-- [Think in Java](http://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486)（[中文版](http://search.jd.com/Search?keyword=Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3&enc=utf-8&pvid=3k9neboi.t8qd1i)）
+- [Think in Java](http://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486)（[中文版](http://search.jd.com/Search?
+- keyword=Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3&enc=utf-8&pvid=3k9neboi.t8qd1i)）
+- [Learn Java - Scaler Topics](https://www.scaler.com/topics/java/)
 
 
 
